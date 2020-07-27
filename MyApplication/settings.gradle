@@ -1,3 +1,4 @@
+include ':C3_Function'
 include ':C2_Basics'
 include ':app'
 rootProject.name = "My Application"
