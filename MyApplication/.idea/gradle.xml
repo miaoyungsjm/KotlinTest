@@ -13,6 +13,9 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/C2_Basics" />
+            <option value="$PROJECT_DIR$/C3_Function" />
+            <option value="$PROJECT_DIR$/C4_COI" />
+            <option value="$PROJECT_DIR$/C5_Lambda" />
             <option value="$PROJECT_DIR$/app" />
           </set>
         </option>
